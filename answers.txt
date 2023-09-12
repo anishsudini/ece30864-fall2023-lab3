@@ -1,0 +1,1 @@
+1. In a non-Agile project, the _ is equivalent to the Product Owner. The Product owner in an Agile team sets the direction for the team, they handle release management, and they handle stakeholder management.

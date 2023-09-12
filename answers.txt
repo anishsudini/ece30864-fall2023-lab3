@@ -1,1 +1,2 @@
-1. In a non-Agile project, the _ is equivalent to the Product Owner. The Product owner in an Agile team sets the direction for the team, they handle release management, and they handle stakeholder management.
+1. In a non-Agile project, the Project Manager is equivalent to the Product Owner. The Product owner in an Agile team sets the direction for the team, they handle release management, and they handle stakeholder management.
+2. The Product owner in an Agile team sets the direction for the team, they handle release management, and they handle stakeholder management. The SCRUM Master handles all SCRUM related tasks such as JIRA tooling, faciliating sprints and meetings, and all standups are done by the SCRUM Master as well. 
